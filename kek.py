@@ -3,3 +3,4 @@ MASTER_JUST_NOW = False
 LOL = 1
 
 one = 1
+two = 2
