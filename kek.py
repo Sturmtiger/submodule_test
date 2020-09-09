@@ -1,2 +1,3 @@
 SECOND_BRANCH = True
 MASTER_JUST_NOW = False
+LOL = 1
