@@ -7,3 +7,4 @@ two = 2
 three = 3
 
 new = 23
+master_after_new2 = 500
